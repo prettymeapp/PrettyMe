@@ -1,0 +1,2 @@
+# PrettyMe
+Privacy policy
