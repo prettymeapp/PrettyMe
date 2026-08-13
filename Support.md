@@ -34,7 +34,7 @@ Subscription billing and refunds are handled through Apple.
 
 ## Privacy
 
-For information about how PrettyMe handles your data and photos, please review our **Privacy Policy**.
+For information about how PrettyMe handles your data and photos, please review our [Privacy Policy](https://prettymeapp.github.io/PrettyMe/).
 
 ## About PrettyMe
 
