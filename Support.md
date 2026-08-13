@@ -1,3 +1,9 @@
+---
+layout: page
+title: "PrettyMe Support"
+permalink: /support/
+---
+
 # PrettyMe Support
 
 Need help with PrettyMe? We’re happy to help.
